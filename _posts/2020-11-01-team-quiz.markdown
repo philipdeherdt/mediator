@@ -17,53 +17,55 @@ You may know the kind of questions: "If you could have 1 superpower, which would
 
 I absolutely like the idea, but I have a few issues with them:
 - They're too hypothetical for me. *End up on a deserted island ? I don't even know how I would get into that situation, so how would I know to get out of it again ?*
-- They're out of my knowledge-area. *A super-hero that reminds me of the last sprint ? I don't read comic-books and didn't recently watch a superhero-movie. Therefore I have to pick 1 that pops up in my head, and try to remember something about his/her magic superhero powers.*
-- They require a good memory *My favourite high-school teacher? I'd need a few minutes to come up with a name.*
+- They're out of my knowledge-area. *A super-hero that reminds me of the last sprint ? I don't read comic-books and didn't recently watch a superhero-movie. Therefore I have to pick one that pops up in my head, and try to recall something about their magic superhero powers.*
+- They require a good memory. *My favourite high-school teacher? I'd need a few minutes to come up with a name.*
 - Other people may not have a good answer either. And we all need to wait/listen for everyone's response, because we want everyone to be heard.
-- Interactivity. Typically everyone just gives an answer, and then you move to the next topic.
+- They often lack interactivity. Typically everyone just gives an answer. You don't want to focus on one person too long, to make sure everyne can say their part.
 
-I won't fix all of those with the team-quiz. But I do prefer the quiz-version!
+I won't fix all of those with the team-quiz. But - after one tryout so far - I do prefer the quiz-version!
 
 # How to play the quiz
 Before starting the quiz, I think that two rules need to be set:
 - Cheating/lying is not allowed
 - If the team feels that a rule is missing, the team needs to find a way to overcome that
 
-The quiz is played in rounds, with each round being about 1 question. The answer to each question should be the name of 1 of the participating team-members. Such a question could be: "Who has once travelled the longest distance on foot ?"
+The quiz is played in rounds, with each round being about one question. The answer to each question should be the name of 1 of the participating team-members. An example question: "Who has once travelled the longest distance on foot ?"
 
 It is then up to each team-member (including the quizmaster) to think which team member would best fit that description, and communicate their answer to the rest of the team.
 
 When everyone has given their answer, the team needs to define what the correct answer is. It might be the most-voted-for person? Or does someone else think they better fit the description ? Discuss, share anecdotes and you shall find the correct answer.
 
-Everyone who had given the correct answer gets a point. If you feel like continuing, you can start another round.
+Everyone who had given the correct answer gets a point. Play as many rounds as you like.
 
 
 # Practical arrangements
 To optimize the experience, some things should be considered:
-- Prepare a variation of questions upfront. This task could be split over multiple people.
+- Prepare a variation of questions upfront. (This task could be split over multiple people)
 - There's multiple ways to communicate your answer to the rest of the team. Each person could have a set of post-its with each team member's name. Or you could all type in a chat-tool at the same time. Or ...
 - There's multiple ways to track the score. My suggestion for an on-line format: 
--- In a slack thread, let everyone put 1 line with their slogan/battle-cry/motivational-speech.
--- When the winners of a round are decided, let each of them add a reacji to their line.
+  - In a slack thread, let everyone put one message with their slogan/battle-cry/motivational-quote. (to add a bit more of the competitive aspect)
+  - When the correct answer is agreed upon, let people with that answer add a reacji to their own message.
 
 
 # Good and bad questions
 Some questions are better than others. It probably has a lot to do with personal preference. I'll share my considerations:
-- Don't turn it into a bragging contest. *Who has most friends ? Who owns the biggest house ? Who has the hottest spouse?*
-- Compile a variety of questions so that anyone could be the answer. Make them about a variety of hobbies & life experiences.
+- Don't turn it into a bragging contest. Don't ask *Who has most friends ? Who owns the biggest house ? Who has the hottest spouse?*
+- Compile a variety of questions so that anyone could be the answer. Do this by preparing questions about a variety of hobbies & life experiences.
 - Keep it fun. Ask questions about hobbies, pets and the fun things in life. Ask questions that could lead to fun anecdotes.
 - Don't make people share more info than they want to. *"Who has most siblings?" shouldn't force someone into giving away their own situation, whereas "How many siblings do all teammembers have combined?" would push everyone into sharing their number*
 - Consider whether it's practical to come to an agreement when deciding on the answer. On the other hand: it could be a fun challenge to try to decide on *"Who is the best cook?"*
 
 
 # Advantages
-I like the quiz-format for these reasons:
-- The quizmaster can compete as well.
-- There could be a rotating role for the quizmaster (if multiple people prepared questions)
+I like the quiz-format for these (potential) reasons:
+- The quizmaster can compete as well. There could even be a rotating role for the quizmaster.
+- It has a competitive element.
 - It's an opportunity to build trust in the team (because keeping track of the score is up to each individual)
-- Lightweight arguments could arise (because some things are intentionally clear from the start)
-- It could be a team-practice on decision-making (if a rule is unclear, the team has to find a solution)
+- Lightweight arguments could arise (because some things aren't clear yet from the start)
+- It can turn into a team-practice on decision-making (if a rule is unclear, the team has to find a solution)
+- It has a feedback-aspect: when people give their answer, they share how they see the people around them.
 
 # Disadvantage
-Nothing in life is exclusively good or exclusively bad. I currently see this downside:
+Nothing in life is exclusively good or exclusively bad. I currently see these downsides:
 - Unlike the icebreaker questions, this format is not very suited for a team that barely knows each other yet
+- There's a risk that the people with the biggest mouths would end up saying most.
