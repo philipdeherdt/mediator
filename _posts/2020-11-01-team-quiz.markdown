@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "The team-quiz"
+date:   2020-11-01T12:43:52.843Z
+categories: team-building
+tags:
+image: /assets/post_images/the-team-quiz_big.jpg
+image2:  /assets/post_images/the-team-quiz_small.jpg
+permalink: /posts/the-team-quiz
+published: false
+---
+
+We recently did a remote team-building that involved answering fun icebreaker-questions. I liked the session, but wanted to turn it into something better. This team-quiz is the result.
+
+
+You may know the kind of questions: "If you could have 1 superpower, which would it be ?" or "Which 3 items would you want to have when being stranded on a deserted island?". Or look for "icebreaker questions" to find a whole bunch of them.
+
+I absolutely like the idea, but I have a few issues with them:
+* They're too hypothetical for me. *End up on a deserted island ? I don't even know how I would get into that situation, so how would I know to get out of it again ?*
+* They're out of my knowledge-area. *A super-hero that reminds me of the last sprint ? I don't read comic-books and didn't recently watch a superhero-movie. Therefore I have to pick 1 that pops up in my head, and try to remember something about his/her magic superhero powers.*
+* They require a good memory *My favourite high-school teacher? I'd need a few minutes to come up with a name.*
+* Other people may not have a good answer either. And we all need to wait/listen for everyone's response, because we want everyone to be heard.
+* Interactivity. Typically everyone just gives an answer, and then you move to the next topic.
+
+I won't fix all of those with the team-quiz. But I do prefer the quiz-version!
+
+# Rules
+* do This
+* and that
+
+# Practicalities
+* postits
+* tracking score
+
+# Good and bad questions
+- guidelines
+- examples
+
+# Advantages
+- The quizmaster can compete as well.
+- There could be a rotating role for the quizmaster (if multiple people prepared questions)
+- It's an opportunity to build trust in the team (because keeping track of the score is up to each individual)
+- Lightweight arguments could arise (because some things are intentionally clear from the start)
+- It could be a team-practice on decision-making (if a rule is unclear, the team has to find a solution)

@@ -3,39 +3,42 @@ gems:
   - jemoji
   - jekyll-paginate
 
-# Site settings
-title: "Mediator"
-description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+permalink: /posts/:title
 
-email: a-mail@mail.mail
+# Site settings
+title: "Pretty Damn Hot"
+description: This blog is Pretty Damn Hot
+
+email: philipdeherdt@hotmail.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/pdh_logo_300.jpg"
+logo48: "/assets/images/pdh_logo_.48.png"
+
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/badass.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
-author_image: "/assets/images/author.jpg"
+name: 'Philip De Herdt'
+author: 'Philip De Herdt'
+author_image: "/assets/images/profilepic.png"
 
-paginate:	5
+paginate:	10
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
-baseurl: ""
+url: "localhost:4000" # the base hostname & protocol for your site
+baseurl: "/prettydamnhot"
 #used to display twitter cards
-twitter_handle: '@dirkfabisch'
+twitter_handle: '@philipdeherdt'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
 
-#google_analytics: UA-XXXXX-X
+google_analytics: G-K7DZ3C79VS
 
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
+    url:	https://twitter.com/philipdeherdt
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
@@ -49,7 +52,7 @@ social:
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/dirkfabisch
+    url:	https://github.com/philipdeherdt
     desc:	Fork me on github
     share_url:
     share_title:
