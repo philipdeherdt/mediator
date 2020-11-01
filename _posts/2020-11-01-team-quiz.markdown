@@ -7,7 +7,7 @@ tags:
 image: /assets/post_images/the-team-quiz_big.jpg
 image2:  /assets/post_images/the-team-quiz_small.jpg
 permalink: /posts/the-team-quiz
-published: false
+published: true
 ---
 
 We recently did a remote team-building that involved answering fun icebreaker-questions. I liked the session, but wanted to turn it into something better. This team-quiz is the result.
@@ -16,29 +16,54 @@ We recently did a remote team-building that involved answering fun icebreaker-qu
 You may know the kind of questions: "If you could have 1 superpower, which would it be ?" or "Which 3 items would you want to have when being stranded on a deserted island?". Or look for "icebreaker questions" to find a whole bunch of them.
 
 I absolutely like the idea, but I have a few issues with them:
-* They're too hypothetical for me. *End up on a deserted island ? I don't even know how I would get into that situation, so how would I know to get out of it again ?*
-* They're out of my knowledge-area. *A super-hero that reminds me of the last sprint ? I don't read comic-books and didn't recently watch a superhero-movie. Therefore I have to pick 1 that pops up in my head, and try to remember something about his/her magic superhero powers.*
-* They require a good memory *My favourite high-school teacher? I'd need a few minutes to come up with a name.*
-* Other people may not have a good answer either. And we all need to wait/listen for everyone's response, because we want everyone to be heard.
-* Interactivity. Typically everyone just gives an answer, and then you move to the next topic.
+- They're too hypothetical for me. *End up on a deserted island ? I don't even know how I would get into that situation, so how would I know to get out of it again ?*
+- They're out of my knowledge-area. *A super-hero that reminds me of the last sprint ? I don't read comic-books and didn't recently watch a superhero-movie. Therefore I have to pick 1 that pops up in my head, and try to remember something about his/her magic superhero powers.*
+- They require a good memory *My favourite high-school teacher? I'd need a few minutes to come up with a name.*
+- Other people may not have a good answer either. And we all need to wait/listen for everyone's response, because we want everyone to be heard.
+- Interactivity. Typically everyone just gives an answer, and then you move to the next topic.
 
 I won't fix all of those with the team-quiz. But I do prefer the quiz-version!
 
-# Rules
-* do This
-* and that
+# How to play the quiz
+Before starting the quiz, I think that two rules need to be set:
+- Cheating/lying is not allowed
+- If the team feels that a rule is missing, the team needs to find a way to overcome that
 
-# Practicalities
-* postits
-* tracking score
+The quiz is played in rounds, with each round being about 1 question. The answer to each question should be the name of 1 of the participating team-members. Such a question could be: "Who has once travelled the longest distance on foot ?"
+
+It is then up to each team-member (including the quizmaster) to think which team member would best fit that description, and communicate their answer to the rest of the team.
+
+When everyone has given their answer, the team needs to define what the correct answer is. It might be the most-voted-for person? Or does someone else think they better fit the description ? Discuss, share anecdotes and you shall find the correct answer.
+
+Everyone who had given the correct answer gets a point. If you feel like continuing, you can start another round.
+
+
+# Practical arrangements
+To optimize the experience, some things should be considered:
+- Prepare a variation of questions upfront. This task could be split over multiple people.
+- There's multiple ways to communicate your answer to the rest of the team. Each person could have a set of post-its with each team member's name. Or you could all type in a chat-tool at the same time. Or ...
+- There's multiple ways to track the score. My suggestion for an on-line format: 
+-- In a slack thread, let everyone put 1 line with their slogan/battle-cry/motivational-speech.
+-- When the winners of a round are decided, let each of them add a reacji to their line.
+
 
 # Good and bad questions
-- guidelines
-- examples
+Some questions are better than others. It probably has a lot to do with personal preference. I'll share my considerations:
+- Don't turn it into a bragging contest. *Who has most friends ? Who owns the biggest house ? Who has the hottest spouse?*
+- Compile a variety of questions so that anyone could be the answer. Make them about a variety of hobbies & life experiences.
+- Keep it fun. Ask questions about hobbies, pets and the fun things in life. Ask questions that could lead to fun anecdotes.
+- Don't make people share more info than they want to. *"Who has most siblings?" shouldn't force someone into giving away their own situation, whereas "How many siblings do all teammembers have combined?" would push everyone into sharing their number*
+- Consider whether it's practical to come to an agreement when deciding on the answer. On the other hand: it could be a fun challenge to try to decide on *"Who is the best cook?"*
+
 
 # Advantages
+I like the quiz-format for these reasons:
 - The quizmaster can compete as well.
 - There could be a rotating role for the quizmaster (if multiple people prepared questions)
 - It's an opportunity to build trust in the team (because keeping track of the score is up to each individual)
 - Lightweight arguments could arise (because some things are intentionally clear from the start)
 - It could be a team-practice on decision-making (if a rule is unclear, the team has to find a solution)
+
+# Disadvantage
+Nothing in life is exclusively good or exclusively bad. I currently see this downside:
+- Unlike the icebreaker questions, this format is not very suited for a team that barely knows each other yet
