@@ -42,7 +42,7 @@ Everyone who had given the correct answer gets a point. Play as many rounds as y
 To optimize the experience, some things should be considered:
 - Prepare a variation of questions upfront. (This task could be split over multiple people)
 - There's multiple ways to communicate your answer to the rest of the team. Each person could have a set of post-its with each team member's name. Or you could all type in a chat-tool at the same time. Or ...
-- There's multiple ways to track the score. My suggestion for an on-line format: 
+- There's multiple ways to track the score. My suggestion for an on-line format:
   - In a slack thread, let everyone put one message with their slogan/battle-cry/motivational-quote. (to add a bit more of the competitive aspect)
   - When the correct answer is agreed upon, let people with that answer add a reacji to their own message.
 
@@ -55,6 +55,7 @@ Some questions are better than others. It probably has a lot to do with personal
 - Don't make people share more info than they want to. *"Who has most siblings?" shouldn't force someone into giving away their own situation, whereas "How many siblings do all teammembers have combined?" would push everyone into sharing their number*
 - Consider whether it's practical to come to an agreement when deciding on the answer. On the other hand: it could be a fun challenge to try to decide on *"Who is the best cook?"*
 
+I suggest to come up with your own questions, to best suit your situation. However, you can also use [this list]({{ site.baseurl }}{% link /assets/files/the-team-quiz-questions.csv %}) for inspiration.
 
 # Advantages
 I like the quiz-format for these (potential) reasons:
