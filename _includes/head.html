@@ -13,10 +13,11 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   {% if site.twitter_handle %}
-  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:card" content="summary" />
+  <!-- <meta name="twitter:card" content="summary_large_image" /> -->
   <meta name="twitter:site" content="{{ site.twitter_handle }}" />
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-  <meta name="twitter:image" content="{% if page.image %}{{ page.image | prepend: site.baseurl | prepend: site.productionurl }}{% else %}{{ site.logosocial | prepend: site.baseurl | prepend: site.productionurl }}{% endif %}" />
+  <meta name="twitter:image" content="{% if page.image2 %}{{ page.image2 | prepend: site.baseurl | prepend: site.productionurl }}{% else %}{{ site.logosocial | prepend: site.baseurl | prepend: site.productionurl }}{% endif %}" />
   {% if page.excerpt %}
   <meta name="twitter:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 200 }}" />
   {% elsif site.descriptionsocial %}
@@ -31,7 +32,7 @@
   {% elsif site.descriptionsocial %}
   <meta property="og:description" content="{{ site.descriptionsocial | strip_html | strip_newlines | truncate: 200 }}" />
   {% endif %}
-  <meta property="og:image" content="{% if page.image %}{{ page.image | prepend: site.baseurl | prepend: site.productionurl }}{% else %}{{ site.logosocial | prepend: site.baseurl | prepend: site.productionurl }}{% endif %}" />
+  <meta property="og:image" content="{% if page.image2 %}{{ page.image2 | prepend: site.baseurl | prepend: site.productionurl }}{% else %}{{ site.logosocial | prepend: site.baseurl | prepend: site.productionurl }}{% endif %}" />
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.productionurl }}">
   <meta property="og:type" content="blog" />
   {% if page.date %}
