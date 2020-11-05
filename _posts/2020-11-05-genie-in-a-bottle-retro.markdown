@@ -7,7 +7,8 @@ tags:
 image: /assets/post_images/genie_big.jpg
 image2:  /assets/post_images/genie_small.jpg
 permalink: /posts/genie-in-a-bottle-retro
-published: false
+published: true
+stealth: true
 ---
 
 When hosting a retrospective, I look for a format that beautifully fits with the goal I try to achieve. For this one, I wanted to focus on a few wishes that the team-mates had, and make them come true through cooperation.

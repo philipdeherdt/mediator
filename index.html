@@ -57,6 +57,7 @@ layout: default
 
   <div class="cf frame">
     {% for post in paginator.posts %}
+    {% unless post.stealth %}
     <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
       <div class="article-item">
         <header class="post-header">
@@ -71,6 +72,7 @@ layout: default
         </div>
       </div>
     </article>
+    {% endunless %}
     {% endfor %}
   </div>
 
