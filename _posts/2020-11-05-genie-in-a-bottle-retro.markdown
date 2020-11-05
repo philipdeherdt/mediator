@@ -2,12 +2,10 @@
 layout: post
 title:  "Genie in a bottle retro"
 date:   2020-11-05T08:31:16.579Z
-categories: retrospectives
-tags:
+categories: team-building retrospectives
 image: /assets/post_images/genie_big.jpg
 image2:  /assets/post_images/genie_small.jpg
 permalink: /posts/genie-in-a-bottle-retro
-published: true
 stealth: true
 ---
 

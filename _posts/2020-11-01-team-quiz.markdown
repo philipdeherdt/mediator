@@ -3,7 +3,6 @@ layout: post
 title:  "The team-quiz"
 date:   2020-11-01T12:43:52.843Z
 categories: team-building
-tags:
 image: /assets/post_images/the-team-quiz_big.jpg
 image2:  /assets/post_images/the-team-quiz_small.jpg
 permalink: /posts/the-team-quiz

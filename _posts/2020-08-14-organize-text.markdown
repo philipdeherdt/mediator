@@ -3,11 +3,10 @@ layout: post
 title:  "Beginners guide to organizing text"
 date:   2020-08-29 14:34:25
 categories: writing howto
-tags:
 image: /assets/post_images/post-its_big.jpg
 image2:  /assets/post_images/post-its_small.jpg
-# permalink: /posts/organize-text
-published: false
+permalink: /posts/organize-text
+#published: false
 stealth: true
 ---
 
