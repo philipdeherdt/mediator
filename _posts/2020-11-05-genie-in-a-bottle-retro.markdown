@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Genie in a bottle retro"
-date:   
+date:   2020-11-05T08:31:16.579Z
 categories: retrospectives
 tags:
 image: /assets/post_images/genie_big.jpg
