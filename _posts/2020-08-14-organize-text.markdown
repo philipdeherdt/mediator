@@ -6,7 +6,7 @@ categories: writing howto
 image: /assets/post_images/post-its_big.jpg
 image2:  /assets/post_images/post-its_small.jpg
 permalink: /posts/organize-text
-#published: false
+published: false
 stealth: true
 ---
 
