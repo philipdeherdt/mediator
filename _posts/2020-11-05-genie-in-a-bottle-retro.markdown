@@ -50,4 +50,5 @@ Team wishes -> find actions to advance on most-voted items.
 
 
 # Thanks
-Inspiration for this format mostly came from the [Genie in a Bottle](https://retromat.org/en/?id=116) format on retromat.org
+Inspiration for this format mostly came from the [Genie in a Bottle](https://retromat.org/en/?id=116) format on retromat.org.
+Cover-image was picked up from [bustle.org](https://www.bustle.com/p/aladdins-original-ending-with-genies-transformation-was-revealed-by-the-director-18703846)
