@@ -7,7 +7,7 @@ image: /assets/post_images/genie_big.jpg
 image2:  /assets/post_images/genie_small.jpg
 permalink: /posts/genie-in-a-bottle-retro
 stealth: true
-published: true
+published: false
 #width inpost images: 640px           .post .post-content img { -> main.sass:400 ->       display: block
 ---
 
