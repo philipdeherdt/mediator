@@ -1,1 +1,1 @@
-This blog started as a fork from [Mediator by Dirk Fabisch](https://github.com/dirkfabisch/mediator)
+My blog is [Pretty Damn Hot](https://philipdeherdt.github.io/prettydamnhot/)
