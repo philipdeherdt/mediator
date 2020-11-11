@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Autumn"
+date:   2020-11-11T16:15:48.061Z
+categories: photos nature
+image: /assets/post_images/autumn/IMG_20201111_133114_big.jpg
+image2:  /assets/post_images/autumn/IMG_20201111_133114_small.jpg
+permalink: /posts/autumn
+published: true
+stealth: true
+---
+
+Autumn is beautiful.
+
+![Photo 1](/prettydamnhot/assets/post_images/autumn/IMG_20201111_114027_pub.jpg)
+![Photo 2](/prettydamnhot/assets/post_images/autumn/IMG_20201111_120034_pub.jpg)
+![Photo 3](/prettydamnhot/assets/post_images/autumn/IMG_20201111_120951_pub.jpg)
+![Photo 4](/prettydamnhot/assets/post_images/autumn/IMG_20201111_115930_pub.jpg)
+![Photo 5](/prettydamnhot/assets/post_images/autumn/IMG_20201111_121118_pub.jpg)
