@@ -7,13 +7,20 @@ image: /assets/post_images/autumn/IMG_20201111_133114_big.jpg
 image2:  /assets/post_images/autumn/IMG_20201111_133114_small.jpg
 permalink: /posts/autumn
 published: true
-stealth: true
 ---
 
 Autumn is beautiful.
 
 ![](/prettydamnhot/assets/post_images/autumn/IMG_20201111_114027_pub.jpg)
+
+
 ![](/prettydamnhot/assets/post_images/autumn/IMG_20201111_120034_pub.jpg)
+
+
 ![](/prettydamnhot/assets/post_images/autumn/IMG_20201111_120951_pub.jpg)
+
+
 ![](/prettydamnhot/assets/post_images/autumn/IMG_20201111_115930_pub.jpg)
+
+
 ![](/prettydamnhot/assets/post_images/autumn/IMG_20201111_121118_pub.jpg)
