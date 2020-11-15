@@ -8,7 +8,6 @@ image2:  /assets/post_images/genie_small.jpg
 permalink: /posts/genie-in-a-bottle-retro
 stealth: true
 published: false
-#width inpost images: 640px           .post .post-content img { -> main.sass:400 ->       display: block
 ---
 
 When hosting a retrospective, I look for a format that beautifully fits with the goal I try to achieve. For this one, I wanted to focus on a few wishes that the team-mates had, and make them come true through cooperation.
