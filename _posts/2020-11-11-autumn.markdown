@@ -6,7 +6,7 @@ categories: photos nature
 image: /assets/post_images/autumn/IMG_20201111_133114_big.jpg
 image2:  /assets/post_images/autumn/IMG_20201111_133114_small.jpg
 permalink: /posts/autumn
-published: true
+published: false
 ---
 
 Autumn is beautiful.
