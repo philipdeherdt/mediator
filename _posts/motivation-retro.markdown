@@ -6,7 +6,7 @@ categories: retrospective
 image: /assets/post_images/post-its_big.jpg
 image2:  /assets/post_images/post-its_small.jpg
 permalink: /posts/motivation-retro
-published: false
+published: true
 stealth: true
 ---
 
