@@ -14,6 +14,13 @@ stealth: true
 We recently had a reading group on the book [Motiveren zonder controleren](https://www.goodreads.com/book/show/58460984-motiveren-zonder-controleren){:target="_blank"}{:rel="noopener noreferrer"}, a book about [Self-determination theory](https://en.wikipedia.org/wiki/Self-determination_theory){:target="_blank"}{:rel="noopener noreferrer"} and applying it to a company environment.
 Since I enjoy creating my own meeting formats and I was interested in improving the team's happiness from a cooperation and motivation angle, I turned the chapter *ABC-proof job design* into a retrospective. I think that this format is most useful if you notice a bit of demotivation in the team and want people to speak about it openly and do something about it.
 
+
+
+[TODO: niet verhalend maar 'dit is het format' / recept-stijl]
+
+
+
+
 # About the format
 * My version of the retro was held for a remote team. Therefore, I worked with a [digital whiteboard](https://app.mural.co/t/cegeka1863/m/cegeka1863/1680873595096/0c38d0cf3763d9117e720d5f55fc45062df10f0b){:target="_blank"}{:rel="noopener noreferrer"} (all the square stickies are there to indicate what people might add during the session.)
 * This format involves splitting the team up into groups of 3 (or 2) people. Therefore, it's best to foresee break-out rooms or a physical location with some distinct areas.
@@ -69,4 +76,4 @@ Round robin : was this retrospective useful for you ?
 something
 
 
-*Photo by Valeria Ushakova: https://www.pexels.com/photo/green-leafed-plant-3094211/*
+*Photo by Valeria Ushakova: [https://www.pexels.com/photo/green-leafed-plant-3094211/](https://www.pexels.com/photo/green-leafed-plant-3094211/)*
